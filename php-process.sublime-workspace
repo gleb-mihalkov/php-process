@@ -1,0 +1,2144 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"func",
+				"function"
+			],
+			[
+				"simple",
+				"simplexml_load_file"
+			],
+			[
+				"call_user_fun",
+				"call_user_func_array"
+			],
+			[
+				"func_get",
+				"func_get_args"
+			],
+			[
+				"call_use_",
+				"call_user_func_array"
+			],
+			[
+				"wri",
+				"writing〔function〕"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Dire",
+				"DirectoryIterator〔class〕"
+			],
+			[
+				"getN",
+				"getFilename〔function〕"
+			],
+			[
+				"conne",
+				"connection"
+			],
+			[
+				"__",
+				"__construct〔function〕"
+			],
+			[
+				"bitr",
+				"bitrixProlog"
+			],
+			[
+				"SITE_",
+				"SITE_TEMPLATE_PATH"
+			],
+			[
+				"file_",
+				"file_get_contents〔function〕"
+			],
+			[
+				"FileNo",
+				"FileNotFoundError〔namespace〕"
+			],
+			[
+				"bit",
+				"$bitrixProlog〔variable〕"
+			],
+			[
+				"json_",
+				"json_encode〔function〕"
+			],
+			[
+				"LoadGroupsBy",
+				"LoadGroupsByObjectsList〔function〕"
+			],
+			[
+				"Load",
+				"LoadGroupByCode〔function〕"
+			],
+			[
+				"LoadG",
+				"LoadGroupsByObject〔function〕"
+			],
+			[
+				"objectCo",
+				"$objectCodes〔variable〕"
+			],
+			[
+				"gro",
+				"groups〔variable〕"
+			],
+			[
+				"object_gr",
+				"object_groups"
+			],
+			[
+				"abon",
+				"$abonentId〔variable〕"
+			],
+			[
+				"Ab",
+				"AbonentModel"
+			],
+			[
+				"BadRe",
+				"BadRequestError"
+			],
+			[
+				"Jso",
+				"JsonResponse〔namespace〕"
+			],
+			[
+				"call",
+				"$callback〔variable〕"
+			],
+			[
+				"abs",
+				"abstract〔keyword〕"
+			],
+			[
+				"nam",
+				"namespace〔keyword〕"
+			],
+			[
+				"sa",
+				"sanitizeValue"
+			],
+			[
+				"strip",
+				"stripslashes〔function〕"
+			],
+			[
+				"get",
+				"getGlobalsKey〔function〕"
+			],
+			[
+				"array_un",
+				"array_unshift〔function〕"
+			],
+			[
+				"BX_",
+				"BX_NOT_FOUND〔constant〕"
+			],
+			[
+				"BX_NOT",
+				"BX_NOT_RESOLVED〔constant〕"
+			],
+			[
+				"per",
+				"$previous〔variable〕"
+			],
+			[
+				"Err",
+				"Errors〔namespace〕"
+			],
+			[
+				"thr",
+				"throw〔keyword〕"
+			],
+			[
+				"Per",
+				"PeriodsGroupManager〔class〕"
+			],
+			[
+				"setC",
+				"setComplexes〔function〕"
+			],
+			[
+				"o",
+				"$object〔variable〕"
+			],
+			[
+				"pa",
+				"paymentIds"
+			],
+			[
+				"foreig",
+				"foreginsUnique"
+			],
+			[
+				"fore",
+				"$foreigns〔variable〕"
+			],
+			[
+				"for",
+				"$foreigns〔variable〕"
+			],
+			[
+				"by",
+				"byForeignIds〔variable〕"
+			],
+			[
+				"byF",
+				"byForeign〔variable〕"
+			],
+			[
+				"byFo",
+				"byForeignIds〔variable〕"
+			],
+			[
+				"ids",
+				"idsSub〔variable〕"
+			],
+			[
+				"Lka",
+				"Lka\\Managers\\Manager〔class〕"
+			],
+			[
+				"reques",
+				"$request_object_id〔variable〕"
+			],
+			[
+				"idsPa",
+				"$idsPayments〔variable〕"
+			],
+			[
+				"obj",
+				"$objectId〔variable〕"
+			],
+			[
+				"payment",
+				"$paymentId〔variable〕"
+			],
+			[
+				"paym",
+				"paymentsIds"
+			],
+			[
+				"UF_",
+				"UF_ISDELETED"
+			],
+			[
+				"cons",
+				"consumptionsByObject"
+			],
+			[
+				"isDates",
+				"$isDatesClosed〔variable〕"
+			],
+			[
+				"getMo",
+				"getMonthDate"
+			],
+			[
+				"getm",
+				"getMonthDate"
+			],
+			[
+				"onFrom",
+				"onFromRender"
+			],
+			[
+				"ran",
+				"rangeName〔variable〕"
+			],
+			[
+				"isRan",
+				"isRangeFrom"
+			],
+			[
+				"init",
+				"initDateRanges"
+			],
+			[
+				"getO",
+				"getOptionsValidate〔function〕"
+			],
+			[
+				"par",
+				"parseDate〔function〕"
+			],
+			[
+				"isRa",
+				"isRange"
+			],
+			[
+				"isD",
+				"isDateInRange〔function〕"
+			],
+			[
+				"UF_OPL",
+				"UF_OPL_RT"
+			],
+			[
+				"first_debt_va",
+				"$first_debt_value_ab〔variable〕"
+			],
+			[
+				"getRe",
+				"getRequestForm〔function〕"
+			],
+			[
+				"perio",
+				"periodForDebts〔variable〕"
+			],
+			[
+				"calcDe",
+				"calcDebtValue〔function〕"
+			],
+			[
+				"calc",
+				"calcDebtValueAb〔function〕"
+			],
+			[
+				"UF_NA",
+				"UF_NACH_RT"
+			],
+			[
+				"cal",
+				"calcDebtValueAb〔function〕"
+			],
+			[
+				"first_debt_",
+				"first_debt_value_ab"
+			],
+			[
+				"set",
+				"setDatesFilter〔function〕"
+			],
+			[
+				"debt_m",
+				"$debt_month_name〔variable〕"
+			],
+			[
+				"getObje",
+				"getObjects〔function〕"
+			],
+			[
+				"treaties",
+				"$treaties_filter〔variable〕"
+			],
+			[
+				"requ",
+				"$request_treaty_number〔variable〕"
+			],
+			[
+				"unit_da",
+				"unit_data_period_id"
+			],
+			[
+				"unitDatas",
+				"unitDatasByUnit"
+			],
+			[
+				"unitsBy",
+				"unitsByObject〔variable〕"
+			],
+			[
+				"getTr",
+				"getTreaty〔function〕"
+			],
+			[
+				"getObj",
+				"getObjectTreaties〔function〕"
+			],
+			[
+				"obje",
+				"$objectIds〔variable〕"
+			],
+			[
+				"objectsBy",
+				"$objectsByUnit〔variable〕"
+			],
+			[
+				"unitI",
+				"$unitId〔variable〕"
+			],
+			[
+				"unitByO",
+				"$unitsByObject〔variable〕"
+			],
+			[
+				"unit",
+				"$unitObjects〔variable〕"
+			],
+			[
+				"objectI",
+				"objectIds"
+			],
+			[
+				"tre",
+				"treatiesIds〔variable〕"
+			],
+			[
+				"objectIds",
+				"$objectIdsPayment〔variable〕"
+			],
+			[
+				"LKA_UN",
+				"LKA_UNIT_OBJECTS〔constant〕"
+			],
+			[
+				"trea",
+				"treatiesIds"
+			],
+			[
+				"unitObj",
+				"unitObject"
+			],
+			[
+				"unitOb",
+				"$unitObject〔variable〕"
+			],
+			[
+				"consum",
+				"$consumptions〔variable〕"
+			],
+			[
+				"isEx",
+				"$isExists〔variable〕"
+			],
+			[
+				"unitsByTr",
+				"unitsByTreatyObject〔variable〕"
+			],
+			[
+				"treatyI",
+				"treatyIds"
+			],
+			[
+				"idsO",
+				"$idsObjects〔variable〕"
+			],
+			[
+				"getObject",
+				"getObjectTreaties〔function〕"
+			],
+			[
+				"forea",
+				"$foreign〔variable〕"
+			],
+			[
+				"docs",
+				"docsByTreatyPeriod"
+			],
+			[
+				"periodId",
+				"$periodId〔variable〕"
+			],
+			[
+				"treatyId",
+				"$treatyId〔variable〕"
+			],
+			[
+				"consumptionsByTr",
+				"consumptionsByTreatyObject"
+			],
+			[
+				"ob",
+				"objectsTreaties〔variable〕"
+			],
+			[
+				"objec",
+				"objectsTreaties〔variable〕"
+			],
+			[
+				"ob_get_c",
+				"ob_get_contents〔function〕"
+			],
+			[
+				"getPeriod",
+				"getPeriodForDebts"
+			],
+			[
+				"periods",
+				"periodsByRange〔variable〕"
+			],
+			[
+				"debtsBy",
+				"debtsByTreaty〔variable〕"
+			],
+			[
+				"UF_DATE",
+				"UF_START_DATE"
+			],
+			[
+				"UF_TREAT",
+				"UF_TREATY_ID"
+			],
+			[
+				"isInDa",
+				"$isInDatesStarted〔variable〕"
+			],
+			[
+				"isInD",
+				"$isInDatesClosed〔variable〕"
+			],
+			[
+				"period",
+				"periodForDebts〔variable〕"
+			],
+			[
+				"date",
+				"dateStart〔variable〕"
+			],
+			[
+				"getDe",
+				"getDebtValueRt〔function〕"
+			],
+			[
+				"docsBy",
+				"docsByTreatyPeriod〔variable〕"
+			],
+			[
+				"res",
+				"responsiblesById〔variable〕"
+			],
+			[
+				"objectId",
+				"$objectId〔variable〕"
+			],
+			[
+				"consump",
+				"consumptionsByTreatyObject〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"Add",
+				"Git: Add Current File"
+			],
+			[
+				"git hi",
+				"Git: Commit history"
+			],
+			[
+				"quic",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"quc",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"To spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set ini",
+				"Set Syntax: INI"
+			],
+			[
+				"twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"twi",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"All Auto",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"quick",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"XML",
+				"Set Syntax: XML"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Quick",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"QuiCommit",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"guttern",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"htmlbe",
+				"HTMLBeautify"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"set syntax mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"stylus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"bo",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"Boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"Docl",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"Doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"init",
+				"Git: Init"
+			],
+			[
+				"PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"RemovePa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Remove Pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"List p",
+				"Package Control: List Packages"
+			],
+			[
+				"Box",
+				"Boxy Theme: Activation"
+			],
+			[
+				"Git push",
+				"Git: Push"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"setp hp",
+				"Set Syntax: PHP"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"set styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"Disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"List",
+				"Package Control: List Packages"
+			],
+			[
+				"set syntax st",
+				"Set Syntax: Stylus"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git Re",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"Git Pull",
+				"Git: Pull"
+			],
+			[
+				"GIt QU",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"Git",
+				"Git: Add All"
+			],
+			[
+				"Git Stat",
+				"Git: Status"
+			],
+			[
+				"Git Qu",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git q",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"gitq",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"set scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"set stylus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"set styl\t",
+				"Set Syntax: Stylus"
+			],
+			[
+				"Set Styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"HTML",
+				"HTMLBeautify"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"RemoveP",
+				"Package Control: Remove Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ANF",
+				"ANF: New File"
+			],
+			[
+				"set twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"HTM",
+				"HTMLBeautify"
+			],
+			[
+				"set xml",
+				"Set Syntax: XML"
+			],
+			[
+				"set coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"s",
+				"Set Syntax: PHP"
+			],
+			[
+				"set coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"set Javascr\t",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set Cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"set jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"Set Js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"insta",
+				"GitGutter: Compare Against Tag"
+			],
+			[
+				"set Jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"set apa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"set JS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Set scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"Set",
+				"Set Syntax: PHP"
+			],
+			[
+				"set ",
+				"Set Syntax: PHP"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Set Css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Set JS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Se",
+				"Set Syntax: PHP"
+			],
+			[
+				"Set PH",
+				"Set Syntax: PHP"
+			],
+			[
+				"Set Ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"Set CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"Set PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"Set Coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"Set Scsss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"Set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"Set Scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"Set Sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"Set XML",
+				"Set Syntax: XML"
+			],
+			[
+				"Set HP",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: List",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 410.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_command(True)",
+			"sublime.log_action(true)",
+			"sublime.log_actions(true)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(true)",
+			"print(result)",
+			"result = math.sqrt(30*30) / 2",
+			"import math",
+			"result = math.sqrt(30*30) / 2",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/gm/development/utilites/bitrix-process"
+	],
+	"file_history":
+	[
+		"/home/gm/development/utilites/bitrix-process/bitrix-process.sublime-project",
+		"/home/gm/development/utilites/bitrix-process/src/Exec.php",
+		"/home/gm/development/utilites/bitrix-process/src/Base.php",
+		"/home/gm/development/utilites/bitrix-process/src/Write.php",
+		"/home/gm/development/utilites/bitrix-process/src/Fetch.php",
+		"/home/gm/development/utilites/bitrix-process/src/Read.php",
+		"/home/gm/development/utilites/bitrix-process/Read.php",
+		"/home/gm/development/utilites/bitrix-process/src/Exception.php",
+		"/home/gm/development/utilites/bitrix-process/.gitignore",
+		"/home/gm/development/utilites/bitrix-process/src/interface.php",
+		"/home/gm/development/utilites/bitrix-process/src",
+		"/home/gm/development/utilites/bitrix-process/test.php",
+		"/home/gm/development/utilites/bitrix-process/test/foo.php",
+		"/home/gm/development/passwords_dev.md",
+		"/home/gm/development/vodokanal/www/local/common/integration/base.php",
+		"/home/gm/development/vodokanal/www/local/common/process/base.php",
+		"/home/gm/development/vodokanal/www/test.php",
+		"/home/gm/development/vodokanal/www/local/app/integration/base.php",
+		"/home/gm/development/vodokanal/www/local/app/integration/source/base.php",
+		"/home/gm/development/vodokanal/xml/ActReconciliationsList 2013-05-28 16-22-12.430.xml",
+		"/home/gm/development/vodokanal/www/local/app/integration/dest/model.php",
+		"/home/gm/development/vodokanal/www/local/app/integration/dest/base.php",
+		"/home/gm/development/vodokanal/www/local/common/integration/dest.php",
+		"/home/gm/development/vodokanal/www/local/common/integration/source.php",
+		"/home/gm/development/vodokanal/www/local/common/integration/dest/model.php",
+		"/home/gm/development/vodokanal/www/local/app/integration/source/xml.php",
+		"/home/gm/development/vodokanal/www/local/app/integration/source/database.php",
+		"/home/gm/development/vodokanal/www/local/common/process/write.php",
+		"/home/gm/development/vodokanal/www/local/common/process/fetch.php",
+		"/home/gm/development/vodokanal/www/local/common/process/exec.php",
+		"/home/gm/development/vodokanal/www/local/common/integration/dest/base.php",
+		"/home/gm/development/vodokanal/www/local/common/integration/dest/highload.php",
+		"/home/gm/development/vodokanal/www/local/common/process/error/write.php",
+		"/home/gm/development/vodokanal/www/local/common/process/error/fetch.php",
+		"/home/gm/development/vodokanal/www/local/common/integration/export.php",
+		"/home/gm/development/vodokanal/www/local/common/integration/import.php",
+		"/home/gm/development/vodokanal/www/local/common/integration/source/base.php",
+		"/home/gm/development/vodokanal/www/local/common/file_system/trash.php",
+		"/home/gm/development/vodokanal/www/README.md",
+		"/home/gm/development/vodokanal/www/local/common/file_system/error/base.php",
+		"/home/gm/development/vodokanal/www/local/common/file_system/error/not_found.php",
+		"/home/gm/development/vodokanal/www/project.sublime-project",
+		"/home/gm/development/vodokanal/www/local/common/file_system/item.php",
+		"/home/gm/development/vodokanal/www/local/common/file_system/folder.php",
+		"/home/gm/development/vodokanal/www/trash_error.php",
+		"/home/gm/development/vodokanal/www/local/app/integration/source/xml_trash.php",
+		"/home/gm/development/vodokanal/www/local/app/integration/source/xml_temp.php",
+		"/home/gm/development/vodokanal/www/xml_temp.php",
+		"/home/gm/development/vodokanal/old/Vodokanal/Проект/Обмен данными с водоканалом/watercanal/parserActReconciliationsList.php",
+		"/home/gm/development/vodokanal/old/Vodokanal/Проект/Обмен данными с водоканалом/watercanal/XML с описанием/ActReconciliationsList/ActReconciliationsList 2013-05-28 16-22-12.436.xml",
+		"/home/gm/development/vodokanal/old/Vodokanal/Проект/Обмен данными с водоканалом/watercanal/XML/UsersList/UsersList 2015-02-10 23-03-55.843.xml",
+		"/home/gm/development/vodokanal/www/local/common/process/error/exec.php",
+		"/home/gm/development/vodokanal/www/local/common/model/base.php",
+		"/home/gm/development/vodokanal/www/app/integration/base.php",
+		"/home/gm/development/vodokanal/www/local/common/error/base.php",
+		"/home/gm/development/vodokanal/www/local/common/process/error/base.php",
+		"/home/gm/development/vodokanal/www/local/common/process/errors/base.php",
+		"/home/gm/development/vodokanal/www/local/common/process/errors/exec.php",
+		"/home/gm/development/vodokanal/www/local/common/process/errors/fetch.php",
+		"/home/gm/development/vodokanal/www/local/common/process/fetch_error.php",
+		"/home/gm/development/vodokanal/www/local/common/process/exec_error.php",
+		"/home/gm/development/vodokanal/www/local/common/process/exec_base.php",
+		"/home/gm/development/vodokanal/www/local/common/process/error.php",
+		"/home/gm/development/vodokanal/www/local/common/process/fetch_base.php",
+		"/home/gm/development/vodokanal/www/error.php",
+		"/home/gm/development/vodokanal/www/local/common/processes/base.php",
+		"/home/gm/development/vodokanal/www/local/common/processes/exec_base.php",
+		"/home/gm/development/vodokanal/www/local/common/processes/fetch_base.php",
+		"/home/gm/development/vodokanal/www/local/app/integration/sources/base.php",
+		"/home/gm/development/vodokanal/www/local/common/patterns/process.php",
+		"/home/gm/development/vodokanal/www/local/app/models/base.php",
+		"/home/gm/development/vodokanal/www/local/common/models/base.php",
+		"/home/gm/development/vodokanal/www/app/models/base.php",
+		"/home/gm/development/vodokanal/www/local/integration/error.php",
+		"/home/gm/development/vodokanal/www/local/integration/base.php",
+		"/home/gm/development/vodokanal/test.php",
+		"/home/gm/development/vodokanal/www/local/integration/sources/base.php",
+		"/home/gm/development/vodokanal/www/local/models/base.php",
+		"/home/gm/passwords.md",
+		"/home/gm/development/vodokanal/old/Vodokanal/Проект/Dump20131001(with users).sql",
+		"/home/gm/development/vodokanal/www/local/migrator.php",
+		"/home/gm/remote/test-aspired/update.sh",
+		"/home/gm/development/vodokanal/www/local/composer.lock",
+		"/home/gm/development/vodokanal/www/local/vendor/arrilot/bitrix-migrations/src/Migrator.php",
+		"/home/gm/development/vodokanal/www/local/vendor/arrilot/bitrix-migrations/src/MigratorCli.php",
+		"/home/gm/development/vodokanal/www/local/composer.json",
+		"/home/gm/development/utilites/site_git_update/update.sh",
+		"/home/gm/development/vodokanal/update.sh",
+		"/home/gm/development/vodokanal/public_html/.hidden",
+		"/home/gm/development/vodokanal/vodokanal_www-master-6aca925e4ce9dea9fa0f473f7058331831cc499b/local/templates/.hidden",
+		"/home/gm/development/vodokanal/public_html/README.md",
+		"/home/gm/development/vodokanal/scripts/update.sh",
+		"/home/gm/development/vodokanal/www/local/php_interface/init.php",
+		"/home/gm/development/vodokanal/www/index.php",
+		"/home/gm/development/rename-site.sh",
+		"/home/gm/development/create-site.sh",
+		"/home/gm/development/create-backup.sh",
+		"/home/gm/development/vodokanal/www/local/init.php",
+		"/home/gm/development/vodokanal/www/bitrix/.settings.php",
+		"/home/gm/development/vodokanal/www/local/migrator",
+		"/etc/php/7.0/cli/php.ini",
+		"/home/gm/development/vodokanal/www/bitrix/modules/main/include/prolog_before.php",
+		"/home/gm/development/vodokanal/www/local/templates/vodokanal/header.php",
+		"/home/gm/remote/skb44/www/skb44.ru/local/templates/skb44/header.php",
+		"/home/gm/remote/shanina/local/templates/shanina/header.php",
+		"/home/gm/development/vodokanal/www/local/templates/vodokanal/style.css",
+		"/home/gm/development/vodokanal/www/.gitignore",
+		"/home/gm/development/vodokanal/www/local/site/integration/base.php",
+		"/home/gm/development/vodokanal/www/local/site/integration/sources/base.php",
+		"/home/gm/development/temp/soap_lib.php",
+		"/home/gm/development/vodokanal/www/local/site/migration/test.php",
+		"/home/gm/scripts/test-aspired-shell.sh",
+		"/home/gm/scripts/test-aspired-unmount.sh",
+		"/home/gm/scripts/test-aspired-mount.sh",
+		"/home/gm/development/vodokanal/www/local/templates/vodokanal/footer.php",
+		"/home/gm/development/vodokanal/www/local/templates/vodokanal/description.php",
+		"/home/gm/development/vodokanal/www/local/templates/vodokanal",
+		"/var/www/vodokanal/public_html/.htaccess",
+		"/etc/group",
+		"/var/www/vodokanal/public_html/phpinfo.php",
+		"/etc/apache2/envvars",
+		"/etc/passwd",
+		"/home/gm/development/vodokanal/www/local/test.php",
+		"/var/www/vodokanal/public_html/info.php",
+		"/var/www/vodokanal/public_html/index.html",
+		"/home/gm/development/vodokanal/www/local/common/file_system/file.php",
+		"/home/gm/.ssh/id_rsa.pub",
+		"/home/gm/development/vodokanal/www/local/common/file_system/node.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			"/home/gm/development/guptek/lka",
+			"/home/gm/development/guptek/lka_tabs",
+			"/home/gm/development/guptek/lka_functions",
+			"/home/gm/development/bitrix",
+			"/home/gm/development/guptek/import_db",
+			"/home/gm/development/guptek/graph",
+			"/home/gm/development/guptek/import_db",
+			"/home/gm/development/kts_diesel/front/src",
+			"/home/gm/development/sarafanovo/mobile-v2/src",
+			"/home/gm/remote/skb44/www/skb44.ru/local/templates/skb44",
+			"/home/gm/development/skb/front_v2/src",
+			"/home/gm/development/shanina/front/src/styles",
+			"<project>",
+			"/home/gm/development/skb/front_v2/src",
+			"/home/gm/development/skb/front_v2/src/scripts",
+			"/home/gm/development/skb/front_v2/src",
+			"/home/gm/development/adviser/front/src",
+			"/home/gm/development/adviser/front/src/template",
+			"/home/gm/development/adviser/front/src/styles",
+			"/home/gm/development/adviser/front/src/template",
+			"/home/gm/development/guptek_comfort/front/src/common",
+			"/home/gm/development/sarafanovo/mobile-v2/src",
+			"/run/user/1000/gvfs/ftp:host=ubaza.iv.uberweb.ru/bitrix/templates/uyut_1.0/hotel",
+			"/home/gm/development/spec_apparat/front_v2/src",
+			"/home/gm/development/sarafanovo/mobile-v2/src",
+			"/home/gm/development/guptek_scraper_2",
+			"/home/gm/development/alstrom/front/src",
+			"/home/gm/development/spec_apparat/front_v2/src/article",
+			"/home/gm/development/spec_apparat/front_v2/src",
+			"/home/gm/development/spec_apparat/front_v2/src/common",
+			"/home/gm/development/spec_apparat/front/src",
+			"/home/gm/development/nesterchyk/src",
+			"/home/gm/remote/aspired/www/aspired.ru/MIC",
+			"/home/gm/development/sarafanovo/mobile-v2/src",
+			"/home/gm/development/smartmeter/front/src",
+			"/run/user/1000/gvfs/ftp:host=madmax.beget.com,user=ichalo70/dev.avetpark.ru/public_html/bitrix/templates/.default/modules/bit_otel",
+			"/home/gm/development/nesterchyk/src",
+			"/home/gm/development/sarafanovo/mobile-v2/src",
+			"/home/gm/development/coffee-spa/src",
+			"/home/gm/remote/kasinoiv/home/kasinoiv/flex.prima-piter.ru/docs/templates/bootstrap",
+			"/home/gm/development/sarafanovo/mobile-v2/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"protected",
+			"__METHOD__",
+			"base",
+			"public",
+			"protected",
+			"tempPath",
+			"basePath",
+			"folder",
+			"Path",
+			"file",
+			"folder",
+			"this->path",
+			"getFiles",
+			"isClose",
+			" ==",
+			"this->folderAbsolute",
+			"this->connection",
+			"this->",
+			"this->result",
+			"item",
+			"DeleteOrMoveFileXML",
+			"SaveDocument",
+			"$",
+			"BaseError",
+			"void",
+			"this->item",
+			"error_hanlder",
+			"filepath",
+			"filename",
+			"\"",
+			"short_open_tag",
+			"u0127910",
+			"file",
+			"getExisting",
+			"getPath",
+			"_resolve",
+			"self",
+			"invoke",
+			"self::",
+			"static",
+			"self",
+			"source",
+			"toUnderscore",
+			"file",
+			"isInit",
+			"load",
+			"isCli",
+			"group",
+			"i",
+			"group",
+			"isCodeOnly",
+			"objectCode",
+			"groupCode",
+			"$objects",
+			"['Number']",
+			"pushException",
+			"write",
+			"call",
+			"BX_HTTP_ERROR",
+			"params",
+			"index",
+			"paramsRemoved",
+			"paramsMap",
+			"params",
+			"getSourceGlobals",
+			"isInit",
+			"getSourceName",
+			"support-trigger-online ",
+			"success",
+			"jQuery",
+			"datepicker.css",
+			"kyyte",
+			"frmUpdateComment",
+			"createPlugin",
+			"yyyy-mm-dd",
+			"date",
+			"formErrors",
+			"feedback",
+			"previous",
+			"message",
+			"request_id",
+			"scopeJson",
+			"is_valid",
+			".\n",
+			"gptek",
+			"элементов",
+			"dateFrom",
+			"debtsPast",
+			"result",
+			"key",
+			"isExists",
+			"id",
+			"list",
+			"isFirst",
+			"isInit",
+			"isNew",
+			"item",
+			"list",
+			"foreign",
+			"Foreign",
+			"foreign",
+			"groupsUnique",
+			"foreginsUnique",
+			"foreigns",
+			"byForeign",
+			"getForeign",
+			"treatyId",
+			"getForeign",
+			"isForeigns",
+			"cons",
+			"conses",
+			"consumptions",
+			"isDuplicate",
+			"isExists",
+			"isNew",
+			"getList",
+			"idsSub",
+			"$item['UF_ISPAYMENTTREATY'] != 1",
+			"id",
+			"request_object_id",
+			"object_units",
+			"getConsumptions",
+			"paymentId",
+			"objectPaymentsIds",
+			"consumptions",
+			"object_id",
+			"consumptions",
+			"consumptionsByObject"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$treaties",
+			"$cons_id",
+			"$cons_is_heating",
+			"$cons_is_gvs",
+			"$cons_name",
+			"$object_stages",
+			"$object_name",
+			"$object_address",
+			"$object_is_live",
+			"$object_id",
+			"$object",
+			"$treaty_id",
+			"$objects_filter",
+			"$treaty_date",
+			"$treaty_number",
+			"$treaty",
+			"$treaties",
+			"  ",
+			"$treaty_objects",
+			"$object_units",
+			"<?= $i + 1; ?>",
+			"consumptions_filter",
+			"$object_address",
+			"$object_is_housing",
+			"$units",
+			"$object_id",
+			"$object_name",
+			"$object",
+			"$objects_ids",
+			"$objects_filter",
+			"$treaty_id",
+			"$treaty_date",
+			"$treaty_number",
+			"$treaty",
+			"$treaties_filter",
+			"$treaties",
+			"\\n",
+			"<?= $treaty_docs_link; ?>",
+			"<?= $treaty_units_link; ?>",
+			"<?= $treaty_objects_link; ?>",
+			"<?= $treaty_debt_link; ?>",
+			"$treaty_debt_link",
+			"$treaty_state_id",
+			"$treaty_carrier_type",
+			"$treaty_carrier_id",
+			"$treaty_is_gvs",
+			"$treaty_is_heating",
+			"$treaty_date_db",
+			"$treaty_date_text",
+			"$treaty_date",
+			"$treaty_number",
+			"$treaty_id",
+			"$treaty",
+			"$debts",
+			"$debt",
+			"$debts_summ",
+			"$debts",
+			"$month",
+			"$now_month",
+			"$now_day",
+			"$treaty_states",
+			"$carrier_types",
+			"$states",
+			"$states_list",
+			"$states",
+			"$stuffs",
+			"$treaties_stuffs",
+			"$stuffs",
+			"$stuffs_id",
+			"$stuff",
+			"$departments",
+			"$deps",
+			"$docs_counts",
+			"$units_counts",
+			"$objects_counts",
+			"$objects",
+			"$treaties_id",
+			"$filter",
+			"$objects_id",
+			"$treaties",
+			"lka_treaty_to_drop",
+			"gptek.spb.ru",
+			"'$1', ",
+			" ",
+			"'$1', ",
+			" ",
+			"'$1', ",
+			"https://",
+			"http://skb44.ru",
+			"<li>$1</li>",
+			"<p>$1</p>",
+			"",
+			"\t/",
+			"/",
+			" /",
+			" [L]",
+			"$ /",
+			"$ ",
+			"",
+			"/",
+			"Redirect 302 $1 $2",
+			"\thttp://u0296014.isp.regruhosting.ru$1",
+			"Redirect 302 $1 http://u0296014.isp.regruhosting.ru$2",
+			"\thttp://u0296014.isp.regruhosting.ru",
+			"'$2' => '$1',",
+			"'$2' => '$1',\\n",
+			"",
+			"\t",
+			"data-thumb",
+			"<?",
+			"  ",
+			"",
+			"http://",
+			"",
+			"\\n*",
+			"",
+			"$action",
+			"time",
+			"@sarafanovo.net"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 168.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 156.0
+	},
+	"pinned_build_system": "",
+	"project": "php-process.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"item.",
+				"local/common/file_system/item.php"
+			],
+			[
+				"base",
+				"local/common/configs/base.php"
+			],
+			[
+				"data",
+				"lka_functions/data.php"
+			],
+			[
+				"page",
+				"common/page.php"
+			],
+			[
+				"appl",
+				"common/application.php"
+			],
+			[
+				"app",
+				"common/app.php"
+			],
+			[
+				"js",
+				"scripts/preloader.js"
+			],
+			[
+				"vars",
+				"styles/vars.sass"
+			],
+			[
+				"preload",
+				"styles/preloader.sass"
+			],
+			[
+				"main",
+				"main.js"
+			],
+			[
+				"image",
+				"styles/image.sass"
+			],
+			[
+				"gall",
+				"styles/gallery.sass"
+			],
+			[
+				"link",
+				"styles/link.sass"
+			],
+			[
+				"footer",
+				"styles/footer.sass"
+			],
+			[
+				"lin",
+				"styles/link.sass"
+			],
+			[
+				"heading",
+				"styles/heading.sass"
+			],
+			[
+				"share",
+				"styles/share.sass"
+			],
+			[
+				"soc",
+				"styles/soc.sass"
+			],
+			[
+				"media",
+				"styles/media.sass"
+			],
+			[
+				"galler",
+				"styles/gallery.sass"
+			],
+			[
+				"carou",
+				"scripts/carousel.js"
+			],
+			[
+				"master",
+				"html/master.twig"
+			],
+			[
+				"modal",
+				"scripts/modal.js"
+			],
+			[
+				"light",
+				"styles/lightbox.sass"
+			],
+			[
+				"menu",
+				"styles/menu.sass"
+			],
+			[
+				"pai",
+				"styles/pagination.sass"
+			],
+			[
+				"pa",
+				"html/pagination.twig"
+			],
+			[
+				"lead",
+				"styles/lead.sass"
+			],
+			[
+				"global",
+				"styles/global.sass"
+			],
+			[
+				"head",
+				"styles/header.sass"
+			],
+			[
+				"brea",
+				"styles/breadcrumbs.sass"
+			],
+			[
+				"pag",
+				"styles/pagination.sass"
+			],
+			[
+				"header",
+				"html/header.twig"
+			],
+			[
+				"header_item",
+				"styles/header_item.sass"
+			],
+			[
+				"header_me",
+				"styles/header_menu.sass"
+			],
+			[
+				"ma",
+				"main.sass"
+			],
+			[
+				"contacts",
+				"styles/contacts.sass"
+			],
+			[
+				"cotna",
+				"contacts.twig"
+			],
+			[
+				"car",
+				"styles/carousel.sass"
+			],
+			[
+				"sha",
+				"styles/share.sass"
+			],
+			[
+				"mod",
+				"scripts/modal.js"
+			],
+			[
+				"var",
+				"styles/vars.sass"
+			],
+			[
+				"tra",
+				"styles/transition.sass"
+			],
+			[
+				"text",
+				"styles/text.sass"
+			],
+			[
+				"tras",
+				"styles/transition.sass"
+			],
+			[
+				"corne",
+				"styles/corners.sass"
+			],
+			[
+				"conr",
+				"styles/corners.sass"
+			],
+			[
+				"index",
+				"index.twig"
+			],
+			[
+				"tr",
+				"styles/transition.sass"
+			],
+			[
+				"test",
+				"styles/text.sass"
+			],
+			[
+				"corn",
+				"styles/corners.sass"
+			],
+			[
+				"xml",
+				"lib/xml.php"
+			],
+			[
+				"proce",
+				"lib/process_api.php"
+			],
+			[
+				"inc",
+				"include.php"
+			],
+			[
+				"offer.ht",
+				"offer/offer.html"
+			],
+			[
+				"catalog",
+				"catalog/catalog.html"
+			],
+			[
+				"manager",
+				"common/abstract/manager.coffee"
+			],
+			[
+				"offer.html",
+				"offer/offer.html"
+			],
+			[
+				"route",
+				"app/routes.coffee"
+			],
+			[
+				"catalog-ma",
+				"catalog/catalog-manager.coffee"
+			],
+			[
+				"catalog-mode",
+				"catalog/catalog-model.coffee"
+			],
+			[
+				"offer",
+				"offer/offer-manager.coffee"
+			],
+			[
+				"config",
+				"app/config.coffee"
+			],
+			[
+				"json",
+				"common/json.coffee"
+			],
+			[
+				"net",
+				"app/net.coffee"
+			],
+			[
+				"api",
+				"app/api.coffee"
+			],
+			[
+				"push",
+				"app/push.coffee"
+			],
+			[
+				"input",
+				"styles/input.styl"
+			],
+			[
+				"man",
+				"main.js"
+			],
+			[
+				"products_",
+				"html/products_filter.twig"
+			],
+			[
+				"sele",
+				"styles/select.styl"
+			],
+			[
+				"resp",
+				"styles/responses_carousel.styl"
+			],
+			[
+				"respons",
+				"styles/response.styl"
+			],
+			[
+				"response",
+				"styles/responses_carousel.styl"
+			],
+			[
+				"product",
+				"html/products_filter.twig"
+			],
+			[
+				"about",
+				"styles/about_carousel.styl"
+			],
+			[
+				"map",
+				"html/map.twig"
+			],
+			[
+				"res",
+				"styles/responses_carousel.styl"
+			],
+			[
+				"ab",
+				"styles/about_carousel.styl"
+			],
+			[
+				"map.tw",
+				"html/map.twig"
+			],
+			[
+				"colla",
+				"styles/collapse.styl"
+			],
+			[
+				"faq",
+				"html/faq.twig"
+			],
+			[
+				"mapt",
+				"html/map.twig"
+			],
+			[
+				"box",
+				"styles/box.styl"
+			],
+			[
+				"vas",
+				"styles/vars.styl"
+			],
+			[
+				"responses_ca",
+				"styles/responses_carousel.styl"
+			],
+			[
+				"ind",
+				"index.twig"
+			],
+			[
+				"bar",
+				"styles/bar.styl"
+			],
+			[
+				"hlper",
+				"styles/helpers.styl"
+			],
+			[
+				"but",
+				"styles/button.styl"
+			],
+			[
+				"reset",
+				"styles/reset.styl"
+			],
+			[
+				"reser",
+				"res/README.md"
+			],
+			[
+				"form",
+				"styles/form.styl"
+			],
+			[
+				"ele",
+				"styles/element.styl"
+			],
+			[
+				"coll",
+				"styles/collapse_list.styl"
+			],
+			[
+				"product_pr",
+				"styles/product_promo.styl"
+			],
+			[
+				"in",
+				"index.twig"
+			],
+			[
+				"butt",
+				"styles/button.styl"
+			],
+			[
+				"product_item_te",
+				"styles/product_item_text.styl"
+			],
+			[
+				"product_item",
+				"styles/product_item_text.styl"
+			],
+			[
+				"prod",
+				"html/products_list.twig"
+			],
+			[
+				"produ",
+				"styles/products_list.styl"
+			],
+			[
+				"pro",
+				"styles/products_list.styl"
+			],
+			[
+				"produc",
+				"html/products_list.twig"
+			],
+			[
+				"block",
+				"html/block_title.twig"
+			],
+			[
+				"conta",
+				"styles/container.styl"
+			],
+			[
+				"products_list",
+				"styles/products_list.styl"
+			],
+			[
+				"product_list",
+				"html/products_list.twig"
+			],
+			[
+				"helpers",
+				"styles/helpers.styl"
+			],
+			[
+				"sort",
+				"styles/sort.styl"
+			],
+			[
+				"select",
+				"styles/select.styl"
+			],
+			[
+				"la",
+				"styles/label.styl"
+			],
+			[
+				"label",
+				"styles/label.styl"
+			],
+			[
+				"grid",
+				"styles/grid.styl"
+			],
+			[
+				"for",
+				"styles/form.styl"
+			],
+			[
+				"fo",
+				"styles/form.styl"
+			],
+			[
+				"container",
+				"styles/container.styl"
+			],
+			[
+				"main_me",
+				"styles/main_menu.styl"
+			],
+			[
+				"button",
+				"styles/button.styl"
+			],
+			[
+				"bas",
+				"styles/basket_info.styl"
+			],
+			[
+				"bask",
+				"styles/basket_info.styl"
+			],
+			[
+				"run",
+				"app/run.coffee"
+			],
+			[
+				"hep",
+				"styles/helpers.styl"
+			],
+			[
+				"help",
+				"styles/helpers.styl"
+			],
+			[
+				"mas",
+				"html/master.twig"
+			],
+			[
+				"butto",
+				"styles/button.styl"
+			],
+			[
+				"footer_gr",
+				"styles/footer_group.styl"
+			],
+			[
+				"init",
+				"init.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 379.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

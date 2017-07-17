@@ -1,0 +1,12 @@
+{
+    "name": "gm/php-process",
+    "description": "Abstract process model.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "gleb-mihalkov",
+            "email": "gleb.mihalkov.work@yandex.ru"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,39 @@
+<?php
+namespace Process
+{
+    use Exception as NativeException;
+
+    /**
+     * The base class of the process of execution.
+     */
+    abstract class Exec extends Base
+    {
+        /**
+         * The body of the process.
+         * @return void
+         */
+        abstract protected function exec();
+
+
+
+        /**
+         * Executes the body of the process, causing all event methods.
+         * @return void
+         */
+        public function process()
+        {
+            if ($this->isEnded) return;
+
+            try
+            {
+                $this->_start();
+                $this->exec();
+                $this->_end();
+            }
+            catch (NativeException $error)
+            {
+                $this->_error($error);
+            }
+        }
+    }
+}
