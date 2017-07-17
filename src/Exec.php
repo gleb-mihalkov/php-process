@@ -1,7 +1,7 @@
 <?php
 namespace Process
 {
-    use Exception as NativeException;
+    use Exception;
 
     /**
      * The base class of the process of execution.
@@ -30,7 +30,7 @@ namespace Process
                 $this->exec();
                 $this->_end();
             }
-            catch (NativeException $error)
+            catch (Exception $error)
             {
                 $this->_error($error);
             }

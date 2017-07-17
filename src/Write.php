@@ -1,7 +1,7 @@
 <?php
 namespace Process
 {
-    use Exception as NativeException;
+    use Exception;
 
     /**
      * The base class of the process of element's writing.
@@ -38,7 +38,7 @@ namespace Process
 
                 $this->write($item);
             }
-            catch (NativeException $error)
+            catch (Exception $error)
             {
                 $this->_error($error);
             }

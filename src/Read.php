@@ -1,7 +1,7 @@
 <?php
 namespace Process
 {
-    use Exception as NativeException;
+    use Exception;
 
     /**
      * The base class of the process of element's reading.
@@ -37,7 +37,7 @@ namespace Process
 
                 return $item;
             }
-            catch (NativeException $error)
+            catch (Exception $error)
             {
                 $this->_error($error);
             }
