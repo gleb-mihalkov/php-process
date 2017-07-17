@@ -11,7 +11,7 @@ namespace Process
          * This method must be overrided in the child classes.
          * @return mixed Result of execution.
          */
-        protected function process() {}
+        public function process() {}
 
 
 

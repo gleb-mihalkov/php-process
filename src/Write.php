@@ -22,7 +22,7 @@ namespace Process
          * @param  mixed $item The element or null if writing must be finished.
          * @return void
          */
-        protected function process($item)
+        public function process($item)
         {
             if ($this->isEnded) return;
 

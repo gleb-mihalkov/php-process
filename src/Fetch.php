@@ -20,7 +20,7 @@ namespace Process
          * Executes the body of the process, causing all event methods.
          * @return Iterator<mixed> Enumeration.
          */
-        protected function process()
+        public function process()
         {
             if ($this->isEnded) return;
 
