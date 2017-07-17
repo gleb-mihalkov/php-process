@@ -102,7 +102,7 @@ namespace Process
 
         /**
          * Handles an exception that occurred during execution of the process.
-         * @param  Exception $error Exception.
+         * @param  \Exception $error Exception.
          * @return void
          */
         protected function _error($error)
@@ -111,8 +111,7 @@ namespace Process
             $this->_end();
 
             if ($isSuppress) return;
-
-            throw new Exception($error);
+            throw $error;
         }
     }
 }

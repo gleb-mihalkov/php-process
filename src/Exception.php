@@ -15,7 +15,7 @@ namespace Process
         public function __construct($error)
         {
             $message = $error->getMessage();
-            $code = $code->getCode();
+            $code = $error->getCode();
             parent::__construct($message, $code, $error);
         }
     }
