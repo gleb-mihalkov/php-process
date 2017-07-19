@@ -1,9 +1,15 @@
-# PHP Process pattern
+# Паттерн процесса для PHP
 
-This library is described in the abstract process, with a starting, body, ending and handling their exceptions.
+Библиотека реализует паттерн процесса. Абстрактный процесс - это класс, имеющий единственный основной метод, а также обработчики событий его начала, ошибки и завершения.
 
-## Description
+## Описание
 
-Process is an abstract class with event methods to handle their begining, ending and exceptions. In the library there are also abstract classes for process of the execution, reading and writing, and also for the enumeration process.
+Библиотека содержит абстрактные классы:
 
-See more in [API docs](https://gleb-mihalkov.github.io/php-process-api/).
+* процесса;
+* процесса выполнения одного действия;
+* процесса последовательного чтения элементов;
+* процесса последовательной записи элементов;
+* процесса перечисления элементов через цикл foreach.
+
+Подробнее смотрите в [документации](https://gleb-mihalkov.github.io/php-process-api/).
