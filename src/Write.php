@@ -4,13 +4,13 @@ namespace Process
     use Exception;
 
     /**
-     * The base class of the process of element's writing.
+     * Базовый класс процесса последовательной записи элементов.
      */
     abstract class Write extends BaseSet
     {
         /**
-         * Executes the body of the process, causing all event methods.
-         * @param  mixed $item The element or null if writing must be finished.
+         * Записывает очередной элемент, запуская событийные методы класса.
+         * @param  mixed $item Элемент или null, если следует завершить процесс записи.
          * @return void
          */
         public function process($item)

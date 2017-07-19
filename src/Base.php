@@ -2,24 +2,24 @@
 namespace Process
 {
     /**
-     * The base class of the process.
+     * Базовый класс процесса.
      */
     abstract class Base
     {
         /**
-         * Shows if the process is started.
+         * Показывает, запущен ли процесс.
          * @var boolean
          */
         public $isStarted = false;
 
         /**
-         * Shows if an error occurred.
+         * Показывает, произошла ли в процессе ошибка.
          * @var boolean
          */
         public $isError = false;
 
         /**
-         * Shows if process is ended.
+         * Показывает, завершен ли процесс.
          * @var boolean
          */
         public $isEnded = false;
@@ -27,7 +27,7 @@ namespace Process
 
 
         /**
-         * Running before you start the process.
+         * Выполняется перед началом процесса. Виртуальный метод.
          * @return void
          */
         protected function start()
@@ -36,19 +36,20 @@ namespace Process
         }
 
         /**
-         * Is executed if during process execution the error occurred.
-         * @param  Exception $error Error.
-         * @return boolean          True if the specified exception should throw up
-         *                          for further processing, otherwise false.
+         * Выполняется при возникновении исключения во время процесса.
+         * @param  Exception $error Исключение.
+         * @return mixed            False, если исключение следует подавить.
+         *                          В любом другом случае исключение будет выброшено
+         *                          наверх для дальнейшей обработки.
          */
         protected function error($error)
         {
             $this->isError = true;
-            return true;
         }
 
         /**
-         * Is executed after the ending of the process, no matter error or not.
+         * Выполняется после завершения процесса, вне зависимости от того, возникло ли
+         * исключение или нет.
          * @return void
          */
         protected function end()
@@ -59,7 +60,7 @@ namespace Process
 
 
         /**
-         * Stops the process.
+         * Если процесс выполняется в данный момент, принудительно его останавливает.
          * @return void
          */
         public function stop()
@@ -72,7 +73,7 @@ namespace Process
 
 
         /**
-         * Calls start(), if it has not been called previously.
+         * Если процесс не запущен, вызывает метод start().
          * @return void
          */
         protected function _start()
@@ -82,7 +83,7 @@ namespace Process
         }
 
         /**
-         * Calls the end() if it has not been called previously.
+         * Если процесс не завершен, вызывает метод end().
          * @return void
          */
         protected function _end()
@@ -92,13 +93,13 @@ namespace Process
         }
 
         /**
-         * Handles an exception that occurred during execution of the process.
-         * @param  \Exception $error Exception.
+         * Обрабатывает возникшее исключение.
+         * @param  \Exception $error Исключение.
          * @return void
          */
         protected function _error($error)
         {
-            $isSuppress = !$this->error($error);
+            $isSuppress = $this->error($error) === false;
             $this->_end();
 
             if ($isSuppress) return;

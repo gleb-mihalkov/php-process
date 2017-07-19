@@ -4,13 +4,13 @@ namespace Process
     use Exception;
 
     /**
-     * The base class of the process of element's enumeration.
+     * Базовый класс процесса перечисления элементов.
      */
     abstract class Fetch extends BaseGet
     {
         /**
-         * Executes the body of the process, causing all event methods.
-         * @return Iterator<mixed> Enumeration.
+         * Возвращает перечисление элементов, запуская событийные методы класса.
+         * @return Iterator<mixed> Перечисление элементов.
          */
         public function process()
         {

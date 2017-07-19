@@ -4,12 +4,12 @@ namespace Process
     use Exception;
 
     /**
-     * The base class of the process of execution.
+     * Базовый класс процесса однократного выполнения действия.
      */
     abstract class Exec extends BaseGet
     {
         /**
-         * Executes the body of the process, causing all event methods.
+         * Выполняет действие, запуская событийные методы класса.
          * @return void
          */
         public function process()

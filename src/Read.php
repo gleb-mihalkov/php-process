@@ -4,13 +4,13 @@ namespace Process
     use Exception;
 
     /**
-     * The base class of the process of element's reading.
+     * Базовый класс процесса последовательного чтения элементов.
      */
     abstract class Read extends BaseGet
     {
         /**
-         * Executes the body of the process, causing all event methods.
-         * @return mixed The element or null if the reading is finished.
+         * Читает очередной элемент, запуская событийные методы класса.
+         * @return mixed Очередной элемент или null, если элементы закончились.
          */
         public function process()
         {
