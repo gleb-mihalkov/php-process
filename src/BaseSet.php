@@ -1,7 +1,7 @@
 <?php
 namespace Process
 {
-    use Process\Interfaces\Set;
+    use Process\Interfaces\Set as SetInterface;
 
     /**
      * Базовый класс процесса записи элемента или элементов.

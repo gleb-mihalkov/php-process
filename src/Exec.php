@@ -1,22 +1,13 @@
 <?php
 namespace Process
 {
-    use Process\Interfaces\Get as Get;
     use Exception;
 
     /**
      * The base class of the process of execution.
      */
-    abstract class Exec extends Base implements Get
+    abstract class Exec extends BaseGet
     {
-        /**
-         * The body of the process.
-         * @return void
-         */
-        abstract protected function exec();
-
-
-
         /**
          * Executes the body of the process, causing all event methods.
          * @return void
@@ -28,7 +19,7 @@ namespace Process
             try
             {
                 $this->_start();
-                $this->exec();
+                $this->main();
                 $this->_end();
             }
             catch (Exception $error)

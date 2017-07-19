@@ -1,22 +1,13 @@
 <?php
 namespace Process
 {
-    use Process\Interfaces\Get as Get;
     use Exception;
 
     /**
      * The base class of the process of element's reading.
      */
-    abstract class Read extends Base implements Get
+    abstract class Read extends BaseGet
     {
-        /**
-         * The body of the process.
-         * @return mixed The element or null if reading is finished.
-         */
-        abstract protected function read();
-
-
-
         /**
          * Executes the body of the process, causing all event methods.
          * @return mixed The element or null if the reading is finished.
@@ -29,7 +20,7 @@ namespace Process
             {
                 $this->_start();
 
-                $item = $this->read();
+                $item = $this->main();
 
                 if ($item === null)
                 {

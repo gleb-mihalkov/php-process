@@ -1,22 +1,13 @@
 <?php
 namespace Process
 {
-    use Process\Interfaces\Get as Get;
     use Exception;
 
     /**
      * The base class of the process of element's enumeration.
      */
-    abstract class Fetch extends Base implements Get
+    abstract class Fetch extends BaseGet
     {
-        /**
-         * The body of the process.
-         * @return Iterator<mixed> Enumeration.
-         */
-        abstract protected function fetch();
-
-
-
         /**
          * Executes the body of the process, causing all event methods.
          * @return Iterator<mixed> Enumeration.
@@ -29,7 +20,7 @@ namespace Process
             {
                 $this->_start();
 
-                foreach ($this->fetch() as $item)
+                foreach ($this->main() as $item)
                 {
                     if ($this->isEnded) return;
                     yield $item;
