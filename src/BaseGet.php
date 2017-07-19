@@ -10,7 +10,7 @@ namespace Process
     {
         /**
          * Метод, получающий элемент или элементы.
-         * @return mixed Элемент или null, если элементы в кончились.
+         * @return mixed Элемент или null, если элементы кончились.
          */
         abstract protected function main();
     }
