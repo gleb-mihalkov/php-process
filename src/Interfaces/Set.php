@@ -1,5 +1,5 @@
 <?php
-namespace Process\Interface
+namespace Process\Interfaces
 {
     /**
      * Интерфейс процесса записи элемента или элементов.

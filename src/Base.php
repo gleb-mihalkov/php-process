@@ -7,15 +7,6 @@ namespace Process
     abstract class Base
     {
         /**
-         * Executes the body of the process, causing all event methods.
-         * This method must be overrided in the child classes.
-         * @return mixed Result of execution.
-         */
-        public function process() {}
-
-
-
-        /**
          * Shows if the process is started.
          * @var boolean
          */

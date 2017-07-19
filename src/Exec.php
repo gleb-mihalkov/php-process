@@ -1,12 +1,13 @@
 <?php
 namespace Process
 {
+    use Process\Interfaces\Get as Get;
     use Exception;
 
     /**
      * The base class of the process of execution.
      */
-    abstract class Exec extends Base
+    abstract class Exec extends Base implements Get
     {
         /**
          * The body of the process.

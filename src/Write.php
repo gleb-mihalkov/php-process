@@ -1,12 +1,13 @@
 <?php
 namespace Process
 {
+    use Process\Interfaces\Set as Set;
     use Exception;
 
     /**
      * The base class of the process of element's writing.
      */
-    abstract class Write extends Base
+    abstract class Write extends Base implements Set
     {
         /**
          * The body of the process.
