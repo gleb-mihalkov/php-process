@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+
+	<title>Class Process\Base</title>
+
+	<link rel="stylesheet" href="resources/style.css?c2f33731c1948fbed7c333554678bfa68d4817da">
+
+</head>
+
+<body>
+<div id="left">
+	<div id="menu">
+		<a href="index.html" title="Overview"><span>Overview</span></a>
+
+
+		<div id="groups">
+				<h3>Namespaces</h3>
+			<ul>
+				<li class="active">
+					<a href="namespace-Process.html">
+						Process<span></span>
+					</a>
+
+						<ul>
+				<li>
+					<a href="namespace-Process.Interfaces.html">
+						Interfaces					</a>
+
+						</li>
+							</ul></li>
+			</ul>
+		</div>
+
+		<hr>
+
+
+		<div id="elements">
+			<h3>Classes</h3>
+			<ul>
+				<li class="active"><a href="class-Process.Base.html">Base</a></li>
+				<li><a href="class-Process.BaseGet.html">BaseGet</a></li>
+				<li><a href="class-Process.BaseSet.html">BaseSet</a></li>
+				<li><a href="class-Process.Exec.html">Exec</a></li>
+				<li><a href="class-Process.Fetch.html">Fetch</a></li>
+				<li><a href="class-Process.Read.html">Read</a></li>
+				<li><a href="class-Process.Write.html">Write</a></li>
+			</ul>
+
+
+
+
+
+		</div>
+	</div>
+</div>
+
+<div id="splitter"></div>
+
+<div id="right">
+<div id="rightInner">
+	<form id="search">
+		<input type="hidden" name="cx" value="">
+		<input type="hidden" name="ie" value="UTF-8">
+		<input type="text" name="q" class="text" placeholder="Search">
+	</form>
+
+	<div id="navigation">
+		<ul>
+			<li>
+				<a href="index.html" title="Overview"><span>Overview</span></a>
+			</li>
+			<li>
+				<a href="namespace-Process.html" title="Summary of Process"><span>Namespace</span></a>
+			</li>
+			<li class="active">
+<span>Class</span>			</li>
+		</ul>
+		<ul>
+		</ul>
+		<ul>
+		</ul>
+	</div>
+
+<div id="content" class="class">
+	<h1>Class Base</h1>
+
+
+	<div class="description">
+	<p>Базовый класс процесса.</p>
+	</div>
+
+
+
+	<div>
+		<h4>Direct known subclasses</h4>
+			<a href="class-Process.BaseGet.html">Process\BaseGet</a>, 
+			<a href="class-Process.BaseSet.html">Process\BaseSet</a>
+	</div>
+
+	<div>
+		<h4>Indirect known subclasses</h4>
+			<a href="class-Process.Exec.html">Process\Exec</a>, 
+			<a href="class-Process.Fetch.html">Process\Fetch</a>, 
+			<a href="class-Process.Read.html">Process\Read</a>, 
+			<a href="class-Process.Write.html">Process\Write</a>
+	</div>
+
+
+
+
+
+	<div class="info">
+		<b>Abstract</b><br>
+		
+		<b>Namespace:</b> <a href="namespace-Process.html">Process</a><br>
+		
+
+			<b>Located at</b> <a href="source-class-Process.Base.html#4-108" title="Go to source code">Base.php</a>
+		<br>
+	</div>
+
+
+
+	<table class="summary methods" id="methods">
+	<caption>Methods summary</caption>
+	<tr data-order="start" id="_start">
+
+		<td class="attributes"><code>
+			 protected 
+
+			
+			
+			</code>
+		</td>
+
+		<td class="name"><div>
+		<a class="anchor" href="#_start">#</a>
+		<code><a href="source-class-Process.Base.html#29-36" title="Go to source code">start</a>( )</code>
+
+		<div class="description short">
+			<p>Выполняется перед началом процесса. Виртуальный метод.</p>
+		</div>
+
+		<div class="description detailed hidden">
+			<p>Выполняется перед началом процесса. Виртуальный метод.</p>
+
+
+
+
+
+
+
+		</div>
+		</div></td>
+	</tr>
+	<tr data-order="error" id="_error">
+
+		<td class="attributes"><code>
+			 protected 
+
+			mixed
+			
+			</code>
+		</td>
+
+		<td class="name"><div>
+		<a class="anchor" href="#_error">#</a>
+		<code><a href="source-class-Process.Base.html#38-48" title="Go to source code">error</a>( <span>Exception <var>$error</var></span> )</code>
+
+		<div class="description short">
+			<p>Выполняется при возникновении исключения во время процесса.</p>
+		</div>
+
+		<div class="description detailed hidden">
+			<p>Выполняется при возникновении исключения во время процесса.</p>
+
+
+				<h4>Parameters</h4>
+				<div class="list"><dl>
+					<dt><var>$error</var></dt>
+					<dd>Исключение.</dd>
+				</dl></div>
+
+				<h4>Returns</h4>
+				<div class="list">
+					mixed<br><p>False, если исключение следует подавить.
+                         В любом другом случае исключение будет выброшено
+                         наверх для дальнейшей обработки.</p>
+				</div>
+
+
+
+
+		</div>
+		</div></td>
+	</tr>
+	<tr data-order="end" id="_end">
+
+		<td class="attributes"><code>
+			 protected 
+
+			
+			
+			</code>
+		</td>
+
+		<td class="name"><div>
+		<a class="anchor" href="#_end">#</a>
+		<code><a href="source-class-Process.Base.html#50-58" title="Go to source code">end</a>( )</code>
+
+		<div class="description short">
+			<p>Выполняется после завершения процесса, вне зависимости от того, возникло ли
+исключение или нет.</p>
+		</div>
+
+		<div class="description detailed hidden">
+			<p>Выполняется после завершения процесса, вне зависимости от того, возникло ли
+исключение или нет.</p>
+
+
+
+
+
+
+
+		</div>
+		</div></td>
+	</tr>
+	<tr data-order="stop" id="_stop">
+
+		<td class="attributes"><code>
+			 public 
+
+			
+			
+			</code>
+		</td>
+
+		<td class="name"><div>
+		<a class="anchor" href="#_stop">#</a>
+		<code><a href="source-class-Process.Base.html#62-70" title="Go to source code">stop</a>( )</code>
+
+		<div class="description short">
+			<p>Если процесс выполняется в данный момент, принудительно останавливает его.</p>
+		</div>
+
+		<div class="description detailed hidden">
+			<p>Если процесс выполняется в данный момент, принудительно останавливает его.</p>
+
+
+
+
+
+
+
+		</div>
+		</div></td>
+	</tr>
+	<tr data-order="_start" id="__start">
+
+		<td class="attributes"><code>
+			 protected 
+
+			
+			
+			</code>
+		</td>
+
+		<td class="name"><div>
+		<a class="anchor" href="#__start">#</a>
+		<code><a href="source-class-Process.Base.html#75-83" title="Go to source code">_start</a>( )</code>
+
+		<div class="description short">
+			<p>Если процесс не запущен, вызывает метод start(). Данный метод перегружать не рекомендуется.</p>
+		</div>
+
+		<div class="description detailed hidden">
+			<p>Если процесс не запущен, вызывает метод start(). Данный метод перегружать не рекомендуется.</p>
+
+
+
+
+
+
+
+		</div>
+		</div></td>
+	</tr>
+	<tr data-order="_end" id="__end">
+
+		<td class="attributes"><code>
+			 protected 
+
+			
+			
+			</code>
+		</td>
+
+		<td class="name"><div>
+		<a class="anchor" href="#__end">#</a>
+		<code><a href="source-class-Process.Base.html#85-93" title="Go to source code">_end</a>( )</code>
+
+		<div class="description short">
+			<p>Если процесс не завершен, вызывает метод end().  Данный метод перегружать не рекомендуется.</p>
+		</div>
+
+		<div class="description detailed hidden">
+			<p>Если процесс не завершен, вызывает метод end().  Данный метод перегружать не рекомендуется.</p>
+
+
+
+
+
+
+
+		</div>
+		</div></td>
+	</tr>
+	<tr data-order="_error" id="__error">
+
+		<td class="attributes"><code>
+			 protected 
+
+			
+			
+			</code>
+		</td>
+
+		<td class="name"><div>
+		<a class="anchor" href="#__error">#</a>
+		<code><a href="source-class-Process.Base.html#95-107" title="Go to source code">_error</a>( <span>Exception <var>$error</var></span> )</code>
+
+		<div class="description short">
+			<p>Обрабатывает возникшее исключение.  Данный метод перегружать не рекомендуется.</p>
+		</div>
+
+		<div class="description detailed hidden">
+			<p>Обрабатывает возникшее исключение.  Данный метод перегружать не рекомендуется.</p>
+
+
+				<h4>Parameters</h4>
+				<div class="list"><dl>
+					<dt><var>$error</var></dt>
+					<dd>Исключение.</dd>
+				</dl></div>
+
+
+
+
+
+		</div>
+		</div></td>
+	</tr>
+	</table>
+
+
+
+
+
+
+
+
+
+
+
+
+	<table class="summary properties" id="properties">
+	<caption>Properties summary</caption>
+	<tr data-order="isStarted" id="$isStarted">
+		<td class="attributes"><code>
+			public  
+			boolean
+		</code></td>
+
+		<td class="name">
+				<a href="source-class-Process.Base.html#9-13" title="Go to source code"><var>$isStarted</var></a>
+
+			<div class="description short">
+				<p>Показывает, запущен ли процесс.</p>
+			</div>
+
+			<div class="description detailed hidden">
+				<p>Показывает, запущен ли процесс.</p>
+
+			</div>
+		</td>
+		<td class="value">
+			<div>
+				<a href="#$isStarted" class="anchor">#</a>
+				<code><span class="php-keyword1">false</span></code>
+			</div>
+		</td>
+	</tr>
+	<tr data-order="isError" id="$isError">
+		<td class="attributes"><code>
+			public  
+			boolean
+		</code></td>
+
+		<td class="name">
+				<a href="source-class-Process.Base.html#15-19" title="Go to source code"><var>$isError</var></a>
+
+			<div class="description short">
+				<p>Показывает, произошла ли в процессе ошибка.</p>
+			</div>
+
+			<div class="description detailed hidden">
+				<p>Показывает, произошла ли в процессе ошибка.</p>
+
+			</div>
+		</td>
+		<td class="value">
+			<div>
+				<a href="#$isError" class="anchor">#</a>
+				<code><span class="php-keyword1">false</span></code>
+			</div>
+		</td>
+	</tr>
+	<tr data-order="isEnded" id="$isEnded">
+		<td class="attributes"><code>
+			public  
+			boolean
+		</code></td>
+
+		<td class="name">
+				<a href="source-class-Process.Base.html#21-25" title="Go to source code"><var>$isEnded</var></a>
+
+			<div class="description short">
+				<p>Показывает, завершен ли процесс.</p>
+			</div>
+
+			<div class="description detailed hidden">
+				<p>Показывает, завершен ли процесс.</p>
+
+			</div>
+		</td>
+		<td class="value">
+			<div>
+				<a href="#$isEnded" class="anchor">#</a>
+				<code><span class="php-keyword1">false</span></code>
+			</div>
+		</td>
+	</tr>
+	</table>
+
+
+
+
+
+
+</div>
+
+	<div id="footer">
+		 API documentation generated by <a href="http://apigen.org">ApiGen</a>
+	</div>
+</div>
+</div>
+<script src="resources/combined.js"></script>
+<script src="elementlist.js"></script>
+</body>
+</html>
