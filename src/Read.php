@@ -2,6 +2,7 @@
 namespace Process
 {
     use Exception;
+    use Throwable;
 
     /**
      * Базовый класс процесса последовательного чтения элементов.
@@ -28,6 +29,10 @@ namespace Process
                 }
 
                 return $item;
+            }
+            catch (Throwable $error)
+            {
+                $this->_error($error);
             }
             catch (Exception $error)
             {
